@@ -13,6 +13,11 @@
 		77CA426324A693290099BE0A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77CA426124A693290099BE0A /* Main.storyboard */; };
 		77CA426524A6932C0099BE0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77CA426424A6932C0099BE0A /* Assets.xcassets */; };
 		77CA426824A6932C0099BE0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77CA426624A6932C0099BE0A /* LaunchScreen.storyboard */; };
+		77CA427324A693870099BE0A /* ivan.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 77CA426F24A693860099BE0A /* ivan.mp4 */; };
+		77CA427424A693870099BE0A /* gle.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 77CA427024A693860099BE0A /* gle.mp4 */; };
+		77CA427524A693870099BE0A /* gle_back.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 77CA427124A693870099BE0A /* gle_back.mp4 */; };
+		77CA427624A693870099BE0A /* porsche.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 77CA427224A693870099BE0A /* porsche.mp4 */; };
+		77CA427824A696970099BE0A /* morgen.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 77CA427724A696970099BE0A /* morgen.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		77CA426424A6932C0099BE0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77CA426724A6932C0099BE0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77CA426924A6932C0099BE0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77CA426F24A693860099BE0A /* ivan.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ivan.mp4; sourceTree = "<group>"; };
+		77CA427024A693860099BE0A /* gle.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = gle.mp4; sourceTree = "<group>"; };
+		77CA427124A693870099BE0A /* gle_back.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = gle_back.mp4; sourceTree = "<group>"; };
+		77CA427224A693870099BE0A /* porsche.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = porsche.mp4; sourceTree = "<group>"; };
+		77CA427724A696970099BE0A /* morgen.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = morgen.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +66,11 @@
 		77CA425A24A693290099BE0A /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				77CA427724A696970099BE0A /* morgen.mp4 */,
+				77CA427124A693870099BE0A /* gle_back.mp4 */,
+				77CA427024A693860099BE0A /* gle.mp4 */,
+				77CA426F24A693860099BE0A /* ivan.mp4 */,
+				77CA427224A693870099BE0A /* porsche.mp4 */,
 				77CA425B24A693290099BE0A /* AppDelegate.swift */,
 				77CA425D24A693290099BE0A /* art.scnassets */,
 				77CA425F24A693290099BE0A /* ViewController.swift */,
@@ -125,9 +140,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77CA427424A693870099BE0A /* gle.mp4 in Resources */,
 				77CA425E24A693290099BE0A /* art.scnassets in Resources */,
 				77CA426824A6932C0099BE0A /* LaunchScreen.storyboard in Resources */,
 				77CA426524A6932C0099BE0A /* Assets.xcassets in Resources */,
+				77CA427324A693870099BE0A /* ivan.mp4 in Resources */,
+				77CA427524A693870099BE0A /* gle_back.mp4 in Resources */,
+				77CA427824A696970099BE0A /* morgen.mp4 in Resources */,
+				77CA427624A693870099BE0A /* porsche.mp4 in Resources */,
 				77CA426324A693290099BE0A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

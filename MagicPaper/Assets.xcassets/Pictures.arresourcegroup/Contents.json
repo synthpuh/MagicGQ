@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "gle_back.arreferenceimage"
+    },
+    {
+      "filename" : "gle.arreferenceimage"
+    },
+    {
+      "filename" : "ivan.arreferenceimage"
+    },
+    {
+      "filename" : "morgen.arreferenceimage"
+    },
+    {
+      "filename" : "porsche.arreferenceimage"
+    }
+  ]
+}

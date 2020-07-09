@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "gle_back.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.21099999999999999
+  }
+}
